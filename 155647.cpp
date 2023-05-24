@@ -1,6 +1,3 @@
-//Autor: Marek Górski, nr indeksu 155647, grupa D1, semestr II, kierunek Informatyka,
-//Wydział Informatyki, Zarządzania i Transportu, rok akademicki 2022/2023
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
